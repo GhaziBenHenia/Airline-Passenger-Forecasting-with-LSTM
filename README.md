@@ -23,7 +23,7 @@ These dependencies are crucial for data manipulation, visualization, model build
    pip install numpy pandas matplotlib keras tensorflow scikit-learn
    ```
 3. Clone this repository or download the project files.
-4. Run the `LSTM_for_Regression.ipynb` notebook in a Jupyter environment or similar tool that supports IPython notebooks.
+4. Run the `Airline_Passenger_Forecasting_with_LSTM.ipynb` notebook in a Jupyter environment or similar tool that supports IPython notebooks.
 
 ## Dataset
 The dataset `airline-passengers.csv` is included in the project files. It consists of two columns: `Month` (ranging from January 1949 to December 1960) and `Passengers` (the number of passengers in thousands).
